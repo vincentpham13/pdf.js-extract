@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "dommatrix": "0.0.24",
+    "pdfjs-dist": "^2.14.305",
     "web-streams-polyfill": "3.2.0"
   },
   "engines": {
